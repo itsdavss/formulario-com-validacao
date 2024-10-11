@@ -5,6 +5,7 @@ Esse foi a resolução da **Quest HTML + CSS + JS intermediário - Desafio - For
 ## Tabela de conteúdos
 
 - [Visão geral](#visão-geral)
+  - [Desafio](#desafio)
   - [Screenshots](#screenshots)
 - [Meu processo](#meu-processo)
   - [Dificuldades e aprendizados](#dificuldades-e-aprendizados)
@@ -12,6 +13,9 @@ Esse foi a resolução da **Quest HTML + CSS + JS intermediário - Desafio - For
 - [Autor](#autor)
 
 ## Visão geral
+
+### Desafio
+O desafio consiste em criar um formulário com um sistema de validação em JavaScript. Quando o botão "Enviar" for clicado, se algum campo estiver vazio, sua borda ficará vermelha e aparecerá uma mensagem abaixo informando "Campo obrigatório". Caso o campo seja preenchido corretamente, apenas a borda verde será exibida ao redor dele.
 
 ### Screenshots
 
